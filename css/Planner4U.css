@@ -1,0 +1,16 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+ 	background : url("http://www.yomommaspace.com/graphics/backgrounds/1/16.jpg");
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.tilePicture {
+	background: url("/Users/praneel/Documents/Planner4U/dailySchedule.tiff")
+}
